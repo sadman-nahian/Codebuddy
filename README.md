@@ -1,6 +1,6 @@
 # FINAL PROJECT **CODEBUDDY**
 
-Submitted by: **Sadman AL Nahian**
+developed by: **Sadman AL Nahian**
 
 **CODEBUDDY** is a website that allows developers to intereact .Developers can post here and ask for help if they are stuck somewhere .
 
