@@ -4,7 +4,7 @@ Submitted by: **Sadman AL Nahian**
 
 **CODEBUDDY** is a website that allows developers to intereact .Developers can post here and ask for help if they are stuck somewhere .
 
-## REQUIRED FEATURES:
+##  FEATURES:
 * A create form that allows the user to create posts
 *Posts must contain a title, and optionally additional textual content and/or an image added as an external image URL
 * A home feed displaying previously created posts
